@@ -1,0 +1,3 @@
+C:/Users/Usuario/IG_Projects/practicaFinal/cmake-build-debug/CMakeFiles/practicaFinal.dir
+C:/Users/Usuario/IG_Projects/practicaFinal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/IG_Projects/practicaFinal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

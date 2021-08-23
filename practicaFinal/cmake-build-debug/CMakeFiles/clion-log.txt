@@ -1,0 +1,4 @@
+"D:\Users\Usuario\IDEA\CLion 2020.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Usuario\IG_Projects\practicaFinal
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Usuario/IG_Projects/practicaFinal/cmake-build-debug
